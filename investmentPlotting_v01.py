@@ -1,3 +1,9 @@
+'''
+code taken from 
+
+http://chrisdegiere.com/introduction-to-financial-market-data-visualization-with-python/
+'''
+
 import pandas.io.data as web
 from datetime import datetime
 import matplotlib.pyplot as plt    
